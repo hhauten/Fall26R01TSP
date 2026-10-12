@@ -1,6 +1,6 @@
 public class Welcome {
 
   static public{
-    System.out.println("Welcome");
+    Sstem.out.println("Welcome");
   }
 }
